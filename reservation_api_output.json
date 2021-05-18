@@ -1,0 +1,584 @@
+{
+    "results": [{
+            "_id": "607f517bd04da7002c536b6a",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5f6bcc930b77d7002b44ecdd",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f6bcd1a17b81a002a9cdc96",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-17T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "guest": {
+                "_id": "607f517bd04da7002c536b33",
+                "fullName": "Kevin Wysocki"
+            },
+            "confirmationCode": "HME5QBNREK",
+            "guestId": "607f517bd04da7002c536b33",
+            "listing": {
+                "_id": "5f6bcd1a17b81a002a9cdc96",
+                "title": "Historic Victorian | Lafayette Square | 5 Bedroom"
+            }
+        }, {
+            "_id": "6082585413e89c002ca5c3cf",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5d50a2d931ab17001eafb485",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5d50de5e9e72b1002d37c00d",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-17T20:00:00.000Z",
+            "checkOut": "2021-05-19T15:00:00.000Z",
+            "guest": {
+                "_id": "6082584e13e89c002ca5c0e0",
+                "fullName": "Shaun May"
+            },
+            "confirmationCode": "HMJ4MMEY9S",
+            "guestId": "6082584e13e89c002ca5c0e0",
+            "listing": {
+                "_id": "5d50de5e9e72b1002d37c00d",
+                "title": "Cozy Loft | Steps from the Arch!"
+            }
+        }, {
+            "_id": "609ec8add09a18002f38a1c9",
+            "integration": {
+                "platform": "homeaway2",
+                "_id": "5f74e17b8da1d2002b12aea2",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "confirmationCode": "HA-v3pphL6",
+            "checkIn": "2021-05-18T20:00:00.000Z",
+            "checkOut": "2021-05-20T15:00:00.000Z",
+            "listingId": "5d9ee4f2dec8c500320362ff",
+            "guest": {
+                "_id": "609ec8aad09a18002f38a1ba",
+                "fullName": "Kevin McGinity"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "609ec8aad09a18002f38a1ba",
+            "listing": {
+                "_id": "5d9ee4f2dec8c500320362ff",
+                "title": "Chic Studio | Full Kitchen | Close to Everything!"
+            }
+        }, {
+            "_id": "6048ecba06224d002f5ec17c",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5dd15b449e1a51001fce5b87",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5dd15cc8151be30034260be0",
+            "confirmationCode": "HM8SRE35AH",
+            "checkIn": "2021-05-19T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "listing": {
+                "_id": "5dd15cc8151be30034260be0",
+                "title": "Gorgeous Home Near the Zoo & Forest Park"
+            },
+            "guest": {
+                "_id": "6048ecb906224d002f5ec133",
+                "fullName": "Leslie Deal"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "6048ecb906224d002f5ec133"
+        }, {
+            "_id": "607338aa4288d20031e022d2",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5ce3ed1c4319fd001e39aca0",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5ce3edf5f819690049963f7f",
+            "confirmationCode": "HMWQP99BTA",
+            "checkIn": "2021-05-19T20:00:00.000Z",
+            "checkOut": "2021-05-26T15:00:00.000Z",
+            "listing": {
+                "_id": "5ce3edf5f819690049963f7f",
+                "title": "Smarthome | Full Kitchen | Next to Tower Grove!"
+            },
+            "guest": {
+                "_id": "607338aa4288d20031e022b8",
+                "fullName": "Kathleen Keenan"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "607338aa4288d20031e022b8"
+        }, {
+            "_id": "607f7fa3d04da7002c5a59b5",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5b1e95ffc0cecf001f0d4a02",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5b202b81a437e000250caa9b",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-19T20:00:00.000Z",
+            "checkOut": "2021-05-23T15:00:00.000Z",
+            "guest": {
+                "_id": "607f7fa2d04da7002c5a599d",
+                "fullName": "Aurora Chen"
+            },
+            "confirmationCode": "HMCF5PBPYN",
+            "guestId": "607f7fa2d04da7002c5a599d",
+            "listing": {
+                "_id": "5b202b81a437e000250caa9b",
+                "title": "Modern and Cozy SmartHome, near it all!"
+            }
+        }, {
+            "_id": "607f996c07562b0030388cb3",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5cc771cdfa2fb4001f1549e7",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5cc780cf09bb91007f9c9dd6",
+            "confirmationCode": "HMCMEJ3MX8",
+            "checkIn": "2021-05-19T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "listing": {
+                "_id": "5cc780cf09bb91007f9c9dd6",
+                "title": "❤ of Downtown | Large Kitchen | Next to the Arch!"
+            },
+            "guest": {
+                "_id": "607e12ea11ac5d002f3aec65",
+                "fullName": "James MacPherson"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "607e12ea11ac5d002f3aec65"
+        }, {
+            "_id": "609d8f3a40ff00002c6958e0",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5f3be06f4b5999002c18718c",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f3be1eff43393002cc7c27c",
+            "confirmationCode": "HMX42T8DNQ",
+            "checkIn": "2021-05-19T20:00:00.000Z",
+            "checkOut": "2021-05-21T15:00:00.000Z",
+            "listing": {
+                "_id": "5f3be1eff43393002cc7c27c",
+                "title": "Private Carriage House | Benton Park | Near it all"
+            },
+            "guest": {
+                "_id": "609d8f3a40ff00002c6958d9",
+                "fullName": "Robert Rasmussen"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "609d8f3a40ff00002c6958d9"
+        }, {
+            "_id": "607c54ab10cb6a002f0bf3fb",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5df4f7a46c99a1001f02b5e6",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5df531aecd9ee300317df955",
+            "confirmationCode": "HMQT25AN48",
+            "checkIn": "2021-05-20T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "listing": {
+                "_id": "5df531aecd9ee300317df955",
+                "title": "Zoo Cottage | Full Kitchen | Close to Everything!"
+            },
+            "guest": {
+                "_id": "607c54aa10cb6a002f0bf3f1",
+                "fullName": "Beth Beatty"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "607c54aa10cb6a002f0bf3f1"
+        }, {
+            "_id": "607f8621d04da7002c5b296f",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5d50a2d931ab17001eafb485",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f8b4472afd2cc002a38f9c7",
+            "confirmationCode": "HMJM5ZZ9XR",
+            "checkIn": "2021-05-20T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "listing": {
+                "_id": "5f8b4472afd2cc002a38f9c7",
+                "title": "Steps from Arch | Private Downtown Loft"
+            },
+            "guest": {
+                "_id": "607f862007562b0030352219",
+                "fullName": "Caitlin Brown"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "607f862007562b0030352219"
+        }, {
+            "_id": "60929d6be28688002ecbff06",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5d50a2d931ab17001eafb485",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5d50de5e9e72b1002d37c00d",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-20T20:00:00.000Z",
+            "checkOut": "2021-05-23T15:00:00.000Z",
+            "guest": {
+                "_id": "60929d6be28688002ecbfeea",
+                "fullName": "Faybian B"
+            },
+            "confirmationCode": "HMEKZF2WE3",
+            "guestId": "60929d6be28688002ecbfeea",
+            "listing": {
+                "_id": "5d50de5e9e72b1002d37c00d",
+                "title": "Cozy Loft | Steps from the Arch!"
+            }
+        }, {
+            "_id": "609cd13240ff00002c4bb66e",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5cf84c5a8c2a990020d0337c",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5d9ee4f2dec8c500320362ff",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-20T20:00:00.000Z",
+            "checkOut": "2021-05-24T15:00:00.000Z",
+            "guest": {
+                "_id": "60864d1833f2b1002fc85a16",
+                "fullName": "Yujia Liu"
+            },
+            "confirmationCode": "HMYEZZA438",
+            "guestId": "60864d1833f2b1002fc85a16",
+            "listing": {
+                "_id": "5d9ee4f2dec8c500320362ff",
+                "title": "Chic Studio | Full Kitchen | Close to Everything!"
+            }
+        }, {
+            "_id": "60783effeec9fd002fd4177d",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5f3be06f4b5999002c18718c",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f3be1eff43393002cc7c27c",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-21T20:00:00.000Z",
+            "checkOut": "2021-05-27T15:00:00.000Z",
+            "guest": {
+                "_id": "60783effeec9fd002fd41776",
+                "fullName": "Christopher Bader"
+            },
+            "confirmationCode": "HMNFDKPKN5",
+            "guestId": "60783effeec9fd002fd41776",
+            "listing": {
+                "_id": "5f3be1eff43393002cc7c27c",
+                "title": "Private Carriage House | Benton Park | Near it all"
+            }
+        }, {
+            "_id": "608f7be79091c4002debe045",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5b1e95ffc0cecf001f0d4a02",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5b202b81a437e000250caa9b",
+            "confirmationCode": "HMXAC3TAA2",
+            "checkIn": "2021-05-23T20:00:00.000Z",
+            "checkOut": "2021-08-09T15:00:00.000Z",
+            "listing": {
+                "_id": "5b202b81a437e000250caa9b",
+                "title": "Modern and Cozy SmartHome, near it all!"
+            },
+            "guest": {
+                "_id": "608f7bd09091c4002debd7dc",
+                "fullName": "Charles Badami"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "608f7bd09091c4002debd7dc"
+        }, {
+            "_id": "609df0d1e210d90030a8de05",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5df4f7a46c99a1001f02b5e6",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5df531aecd9ee300317df955",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-24T20:00:00.000Z",
+            "checkOut": "2021-05-27T15:00:00.000Z",
+            "guest": {
+                "_id": "609df0d1e210d90030a8dde8",
+                "fullName": "David Corbett"
+            },
+            "guestId": "609df0d1e210d90030a8dde8",
+            "listing": {
+                "_id": "5df531aecd9ee300317df955",
+                "title": "Zoo Cottage | Full Kitchen | Close to Everything!"
+            },
+            "confirmationCode": "HMZYDAPAW8"
+        }, {
+            "_id": "60988c02a0e37b002ec71cc6",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5d50a2d931ab17001eafb485",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5d50de5e9e72b1002d37c00d",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-25T20:00:00.000Z",
+            "checkOut": "2021-05-28T15:00:00.000Z",
+            "guest": {
+                "_id": "60988c02a0e37b002ec71cbc",
+                "fullName": "Meagan Hammond"
+            },
+            "confirmationCode": "HMF99NR2ME",
+            "guestId": "60988c02a0e37b002ec71cbc",
+            "listing": {
+                "_id": "5d50de5e9e72b1002d37c00d",
+                "title": "Cozy Loft | Steps from the Arch!"
+            }
+        }, {
+            "_id": "609d7c4f3651be002d589df8",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5f4bc0863121930029a5c3e4",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f4bc1b005a19f002e06aa14",
+            "confirmationCode": "HM9S4HZEZE",
+            "checkIn": "2021-05-25T20:00:00.000Z",
+            "checkOut": "2021-05-27T15:00:00.000Z",
+            "listing": {
+                "_id": "5f4bc1b005a19f002e06aa14",
+                "title": "South City Getaway | Sleeps 4 | Tower Grove Oasis"
+            },
+            "guest": {
+                "_id": "609d7c4e3651be002d589de5",
+                "fullName": "Vicki Stanley"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "609d7c4e3651be002d589de5"
+        }, {
+            "_id": "6059f3db4f5c0f0032de420d",
+            "integration": {
+                "platform": "homeaway2",
+                "_id": "5f74e17b8da1d2002b12aea2",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "confirmationCode": "HA-KWttt9C",
+            "checkIn": "2021-05-26T20:00:00.000Z",
+            "checkOut": "2021-06-01T15:00:00.000Z",
+            "listingId": "5dd15cc8151be30034260be0",
+            "guest": {
+                "_id": "6059f3d84f5c0f0032de4201",
+                "fullName": "Betty McNab"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "6059f3d84f5c0f0032de4201",
+            "listing": {
+                "_id": "5dd15cc8151be30034260be0",
+                "title": "Gorgeous Home Near the Zoo & Forest Park"
+            }
+        }, {
+            "_id": "60667b6b82466f003017d5f1",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "6042c976b94e4e002e236e8e",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "6046aa47d213a400300f0a05",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-26T20:00:00.000Z",
+            "checkOut": "2021-05-30T15:00:00.000Z",
+            "guest": {
+                "_id": "60667b6b82466f003017d5e2",
+                "fullName": "Steve Woodard"
+            },
+            "confirmationCode": "HMSBB9HDE8",
+            "guestId": "60667b6b82466f003017d5e2",
+            "listing": {
+                "_id": "6046aa47d213a400300f0a05",
+                "title": "Spacious Renovated 3 Bed /3 Bath Townhome"
+            }
+        }, {
+            "_id": "60886eff496e7c002d8bb795",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "6051084633045d002fbad970",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "6051092c13a617002eb4177c",
+            "confirmationCode": "HMCTAD3MXK",
+            "checkIn": "2021-05-26T20:00:00.000Z",
+            "checkOut": "2021-05-31T15:00:00.000Z",
+            "listing": {
+                "_id": "6051092c13a617002eb4177c",
+                "title": "Cozy and Convenient Home in South City"
+            },
+            "guest": {
+                "_id": "60886eff496e7c002d8bb791",
+                "fullName": "Emily Martinsen"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "60886eff496e7c002d8bb791"
+        }, {
+            "_id": "6062057edc3111003126b373",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5ce3ed1c4319fd001e39aca0",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5ce3edf5f819690049963f7f",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-27T20:00:00.000Z",
+            "checkOut": "2021-06-01T15:00:00.000Z",
+            "guest": {
+                "_id": "6062057edc3111003126b361",
+                "fullName": "Miguel Berrios"
+            },
+            "confirmationCode": "HM4BAWJDNF",
+            "guestId": "6062057edc3111003126b361",
+            "listing": {
+                "_id": "5ce3edf5f819690049963f7f",
+                "title": "Smarthome | Full Kitchen | Next to Tower Grove!"
+            }
+        }, {
+            "_id": "606ca781a7bb42002f444d83",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5df4f7a46c99a1001f02b5e6",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5df531aecd9ee300317df955",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-27T20:00:00.000Z",
+            "checkOut": "2021-05-31T15:00:00.000Z",
+            "guest": {
+                "_id": "606ca781a7bb42002f444d73",
+                "fullName": "Jiten Patel"
+            },
+            "confirmationCode": "HMFMSJ4Z95",
+            "guestId": "606ca781a7bb42002f444d73",
+            "listing": {
+                "_id": "5df531aecd9ee300317df955",
+                "title": "Zoo Cottage | Full Kitchen | Close to Everything!"
+            }
+        }, {
+            "_id": "608affedc43939002fe53cc0",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5f3be06f4b5999002c18718c",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5f3be1eff43393002cc7c27c",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-27T20:00:00.000Z",
+            "checkOut": "2021-05-30T15:00:00.000Z",
+            "guest": {
+                "_id": "608affedc43939002fe53caf",
+                "fullName": "Lauren DeRuischer"
+            },
+            "confirmationCode": "HMWAXPJXRA",
+            "guestId": "608affedc43939002fe53caf",
+            "listing": {
+                "_id": "5f3be1eff43393002cc7c27c",
+                "title": "Private Carriage House | Benton Park | Near it all"
+            }
+        }, {
+            "_id": "605962f7f89e17002cf27fba",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5cc771cdfa2fb4001f1549e7",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5cc780cf09bb91007f9c9dd6",
+            "confirmationCode": "HMEQ4K8ZNJ",
+            "checkIn": "2021-05-28T20:00:00.000Z",
+            "checkOut": "2021-05-31T15:00:00.000Z",
+            "listing": {
+                "_id": "5cc780cf09bb91007f9c9dd6",
+                "title": "❤ of Downtown | Large Kitchen | Next to the Arch!"
+            },
+            "guest": {
+                "_id": "605962f6f89e17002cf27fac",
+                "fullName": "Eloise Libre"
+            },
+            "accountId": "5b19988e6a3c350024c2be06",
+            "guestId": "605962f6f89e17002cf27fac"
+        }, {
+            "_id": "606dd63ece20ef003172733a",
+            "integration": {
+                "platform": "airbnb2",
+                "_id": "5d50a2d931ab17001eafb485",
+                "limitations": {
+                    "availableStatuses": []
+                }
+            },
+            "listingId": "5d50de5e9e72b1002d37c00d",
+            "accountId": "5b19988e6a3c350024c2be06",
+            "checkIn": "2021-05-28T20:00:00.000Z",
+            "checkOut": "2021-05-30T15:00:00.000Z",
+            "guest": {
+                "_id": "606dd63dce20ef003172732a",
+                "fullName": "Casey Belew"
+            },
+            "confirmationCode": "HMDW9JQFME",
+            "guestId": "606dd63dce20ef003172732a",
+            "listing": {
+                "_id": "5d50de5e9e72b1002d37c00d",
+                "title": "Cozy Loft | Steps from the Arch!"
+            }
+        }
+    ],
+    "title": "Bookings Report",
+    "count": 78,
+    "fields": "checkIn checkOut confirmationCode guest.fullName listing.title",
+    "limit": 25,
+    "skip": 0
+}
